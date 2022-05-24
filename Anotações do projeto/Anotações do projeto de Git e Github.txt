@@ -1,0 +1,1 @@
+Este arquivo serve para incluir anotações diversas sobre o projeto a ser desenvolvido.
